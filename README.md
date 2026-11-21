@@ -13,4 +13,4 @@
 - **Spatial Audio** – Sound volume and stereo panning change based on the player's distance and position relative to the sound source.
 ![Luen Snbx Engine](assets/Untitled.jpg)
 ![Luen Snbx Engine](assets/phyclip.gif)
-![Luen Snbx Engine](assets/assets/recording_20261121_15-15-13.gif)
+![Luen Snbx Engine](assets/recording_20261121_15-15-13.gif)
