@@ -14,3 +14,44 @@
 ![Luen Snbx Engine](assets/Untitled.jpg)
 ![Luen Snbx Engine](assets/phyclip.gif)
 ![Luen Snbx Engine](assets/recording_20261121_15-15-13.gif)
+
+## Installation
+
+### Requirements
+
+- Linux
+- Lua 5.4
+- GTK 3
+- LGI (Lua bindings for GTK and GStreamer)
+- Cairo
+- GStreamer
+
+### 1. Install dependencies
+
+**Arch Linux / CachyOS**
+
+```bash
+sudo pacman -S lua54 lua54-lgi gtk3 cairo gstreamer gst-plugins-base gst-plugins-good
+```
+
+**Ubuntu / Debian**
+
+```bash
+sudo apt update
+sudo apt install lua5.4 lua-lgi gir1.2-gtk-3.0 gir1.2-glib-2.0 gir1.2-gstreamer-1.0 gstreamer1.0-plugins-base gstreamer1.0-plugins-good libcairo2
+```
+
+### 2. Clone the repository
+
+```bash
+git clone https://github.com/Spacebarky/Luen-Snbx-Engine
+cd Luen-Snbx-Engine
+```
+
+### 3. Run the engine
+
+```bash
+lua5.4 main.lua
+```
+
+**Note:** Windows has not been tested. Running through WSL may require additional GUI configuration.
