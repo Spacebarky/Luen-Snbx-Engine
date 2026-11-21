@@ -11,4 +11,4 @@
 - **Physics and Collisions** – Gravity and collision handling for boxes, spheres, and the player.
 - **Creator Panel** – Spawn cubes and spheres directly into the world.
 - **Spatial Audio** – Sound volume and stereo panning change based on the player's distance and position relative to the sound source.
-![Luen Snbx Engine](Untitled.jpg)
+![Luen Snbx Engine](assets/Untitled.jpg)
