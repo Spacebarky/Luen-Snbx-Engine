@@ -12,3 +12,5 @@
 - **Creator Panel** – Spawn cubes and spheres directly into the world.
 - **Spatial Audio** – Sound volume and stereo panning change based on the player's distance and position relative to the sound source.
 ![Luen Snbx Engine](assets/Untitled.jpg)
+![Luen Snbx Engine](assets/phyclip.gif)
+![Luen Snbx Engine](assets/Untitled.jpg)
