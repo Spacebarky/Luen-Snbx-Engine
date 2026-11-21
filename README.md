@@ -56,3 +56,10 @@ lua5.4 main.lua
 ```
 
 **Note:** Windows has not been tested. Running through WSL may require additional GUI configuration.
+
+## Project Status
+This project was created as an experiment to see what's possible with Lua in 3D.
+
+It is currently considered feature-complete for its original goal. Further major development is not actively planned, but expect small updates and improvements here and there!
+
+Contributions are welcome, so feel free to fork the repository and experiment with it yourself!
